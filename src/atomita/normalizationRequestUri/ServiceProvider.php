@@ -1,10 +1,8 @@
 <?php
 
-namespace Atomita\NormalizationRequestUri;
+namespace atomita\normalizationRequestUri;
 
-use Illuminate\Support\ServiceProvider;
-
-class NormalizationRequestUriServiceProvider extends ServiceProvider {
+class ServiceProvider extends \Illuminate\Support\ServiceProvider\ServiceProvider {
 
 	/**
 	 * Indicates if loading of the provider is deferred.

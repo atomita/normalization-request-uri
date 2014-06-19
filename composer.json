@@ -3,11 +3,11 @@
     "description": "Normalization RequestUri for Laravel 4",
 	"keywords": ["laravel", "laravel4"],
     "license": "MIT",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "authors": [
         {
             "name": "atomita",
-            "email": "atom.at.omita@gmail.com"
+            "email": "sleeping.cait.sith+gh@gmail.com"
         }
     ],
     "require": {
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Atomita\\NormalizationRequestUri": "src/"
+            "atomita\\normalizationRequestUri": "src/"
         }
     },
     "minimum-stability": "dev"
